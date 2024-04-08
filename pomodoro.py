@@ -5,7 +5,7 @@ from button import Button
 pygame.init()
 
 # Set the screen size
-WIDTH, HEIGHT = 1100, 700
+WIDTH, HEIGHT = 1000, 562.5
 SCREEN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Pomodoro Timer")
 
